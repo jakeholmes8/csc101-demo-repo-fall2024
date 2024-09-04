@@ -3,15 +3,14 @@
 
 ## Why study computer science?
 
-- ...fill in...
+It interests me and I think it could lead me into a great career
 
 
 
 
 ## What skills/tools/attitudes/knowledge/competencies will help you succeed in computer science?
 
-- ...fill in...
-
+I will need the skills and knowledege provided to me by my professors
 
 
 
@@ -19,8 +18,7 @@
 
 ## How will you get there?
 
-- ...fill in...
-
+I will practice and study my skills until I have come an understanding or mastered my abilities
 
 
 
